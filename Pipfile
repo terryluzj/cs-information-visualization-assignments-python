@@ -11,6 +11,7 @@ pandas = "*"
 bq-helper = {git = "https://github.com/SohierDane/BigQuery_Helper"}
 dash-bootstrap-components = "*"
 gunicorn = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.8"
