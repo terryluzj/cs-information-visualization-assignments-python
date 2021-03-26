@@ -1,5 +1,5 @@
 import dash
-from app import app
+from app import app, server
 from routes.stack_overflow.figure import stack_overflow_visualization
 from routes.codechef.figure import codechef_visualization
 
